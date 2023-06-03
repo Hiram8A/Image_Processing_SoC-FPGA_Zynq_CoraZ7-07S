@@ -1,0 +1,23 @@
+--------------------------------------------------------------------------
+cd S:/File
+
+dow -data <nombre.bin> 0x<direccion entrada>
+mrd -size b -bin -file <nombre_salida.bin> 0x<direccion salida> <tamaño>
+
+--------------------------------------------------------------------------
+cd S:/File
+
+dow -data 1024_color.bin 0x218314
+mrd -size b -bin -file 1024_out.bin 0x118314 1048576
+
+--------------------------------------------------------------------------
+cd S:/File
+
+dow -data P1_color.bin 0x128314
+mrd -size b -bin -file P1_out.bin 0x118314 65536
+
+--------------------------------------------------------------------------
+cd S:/File
+
+dow -data .bin 0x
+mrd -size b -bin -file P1_out.bin 0x 65536
