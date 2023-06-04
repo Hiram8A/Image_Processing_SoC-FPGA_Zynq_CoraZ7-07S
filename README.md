@@ -1,12 +1,23 @@
 # Image Processing SoC-FPGA Zynq CoraZ7-07S
+![Image_Processing](https://raw.githubusercontent.com/Hiram8A/Image_Processing_SoC-FPGA_Zynq_CoraZ7-07S/tree/main/Repo_src/imgprocess.webp)
+
+## Device: CoraZ7-07S
+![CoraZ7-07S](https://raw.githubusercontent.com/Hiram8A/Image_Processing_SoC-FPGA_Zynq_CoraZ7-07S/tree/main/Repo_src/CoraZ7.png)
 
 ---
-Files needed:
-[IP's Repository](https://github.com/Hiram8A/IP_Repository)
+## Tutoriales:  :es:
 
+[HW Tutorial](/Tutorial/HW_Tutorial.md)
+
+[SW Tutorial](/Tutorial/SW_Tutorial.md)
+
+---
+
+[Guide of Image Processing](https://www.v7labs.com/blog/image-processing-guide#what-is-image-processing)
 
 ---
 :es:
+
 Un agradecimiento especial a Kizheppatt Vipin quien es el creador de estas IP's y de sus múltiples tutoriales en el tema.
 
 vipinkmenon en [Github](https://github.com/vipinkmenon)  :heart::star:
