@@ -7,9 +7,9 @@ Files needed:
 ---
 ## Tutoriales:  :es:
 
-[HW Tutorial](https://github.com/Hiram8A/Image_Processing_SoC-FPGA_Zynq_CoraZ7-07S/Tutorial/HW_Tutorial.md)
+[HW Tutorial](/Tutorial/HW_Tutorial.md)
 
-[SW Tutorial](https://github.com/Hiram8A/Image_Processing_SoC-FPGA_Zynq_CoraZ7-07S/Tutorial/SW_Tutorial.md)
+[SW Tutorial](/Tutorial/SW_Tutorial.md)
 
 ---
 :es:
