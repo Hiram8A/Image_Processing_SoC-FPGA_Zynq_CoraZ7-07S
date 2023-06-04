@@ -13,7 +13,16 @@
 
 ---
 
+<<<<<<< HEAD
 [Guide of Image Processing](https://www.v7labs.com/blog/image-processing-guide#what-is-image-processing)
+=======
+---
+## Tutoriales:  :es:
+
+[HW Tutorial](/Tutorial/HW_Tutorial.md)
+
+[SW Tutorial](/Tutorial/SW_Tutorial.md)
+>>>>>>> main
 
 ---
 :es:
