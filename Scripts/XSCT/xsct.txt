@@ -19,5 +19,7 @@ mrd -size b -bin -file P1_out.bin 0x118314 65536
 --------------------------------------------------------------------------
 cd S:/File
 
-dow -data .bin 0x
-mrd -size b -bin -file P1_out.bin 0x 65536
+cd S:/Tutorial
+
+dow -data P1_color.bin 0x128314
+mrd -size b -bin -file P1_out.bin 0x118314 65536

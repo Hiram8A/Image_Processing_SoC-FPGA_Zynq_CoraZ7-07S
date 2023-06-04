@@ -499,11 +499,14 @@
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-06-03/ec8bae02-c8e0-4c96-b612-53140579427a/screenshot.jpeg?tl_px=347,231&br_px=1093,651&sharp=0.8&width=560&wat_scale=50&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/19396A_standard.png&wat_pad=262,139)
 
+---
+
 #### [Link del Tutorial en Scribe](https://scribehow.com/shared/Procesamiento_de_Imgenes_en_SoC-FPGA_con_el_uso_de_Zynq_Cora_Z7-07S_HW__zKPjjz73Rj6GaF1XXHzkhg)
 
-![Mexico](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "Mexico") :es:
+Hiram Ochoa en [Github](https://github.com/Hiram8A)                                                         ![Mexico](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "Mexico") [:es: & :us:]
 
 ---
+
 Un agradecimiento especial a Kizheppatt Vipin quien es el creador de estas IP's y de sus múltiples tutoriales en el tema.
 
 vipinkmenon en [Github](https://github.com/vipinkmenon)  :heart::star:
