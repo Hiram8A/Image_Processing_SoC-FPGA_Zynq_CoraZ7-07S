@@ -1,28 +1,14 @@
 # Image Processing SoC-FPGA Zynq CoraZ7-07S
-![Image_Processing](https://raw.githubusercontent.com/Hiram8A/Image_Processing_SoC-FPGA_Zynq_CoraZ7-07S/tree/main/Repo_src/imgprocess.webp)
+![Image_Processing](https://raw.githubusercontent.com/Hiram8A/Image_Processing_SoC-FPGA_Zynq_CoraZ7-07S/main/Repo_src/imgprocess.webp)
 
 ## Device: CoraZ7-07S
-![CoraZ7-07S](https://raw.githubusercontent.com/Hiram8A/Image_Processing_SoC-FPGA_Zynq_CoraZ7-07S/tree/main/Repo_src/CoraZ7.png)
+![CoraZ7-07S](https://raw.githubusercontent.com/Hiram8A/Image_Processing_SoC-FPGA_Zynq_CoraZ7-07S/main/Repo_src/CoraZ7.jpg)
 
----
 ## Tutoriales:  :es:
 
-[HW Tutorial](/Tutorial/HW_Tutorial.md)
+- [HW Tutorial](/Tutorial/HW_Tutorial.md)
 
-[SW Tutorial](/Tutorial/SW_Tutorial.md)
-
----
-
-<<<<<<< HEAD
-[Guide of Image Processing](https://www.v7labs.com/blog/image-processing-guide#what-is-image-processing)
-=======
----
-## Tutoriales:  :es:
-
-[HW Tutorial](/Tutorial/HW_Tutorial.md)
-
-[SW Tutorial](/Tutorial/SW_Tutorial.md)
->>>>>>> main
+- [SW Tutorial](/Tutorial/SW_Tutorial.md)
 
 ---
 :es:
